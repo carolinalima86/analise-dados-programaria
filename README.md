@@ -33,9 +33,6 @@ A base de dados contém variáveis como:
 - Pandas
 - Google Colab
 
-## 📌 Como visualizar o estudo
-
-Você pode acessar o notebook completo no Google Colab clicando [aqui](#) *(substitua pelo link do seu notebook compartilhado)* ou abrir diretamente pelo GitHub.
 
 ## ✍️ Autora
 
